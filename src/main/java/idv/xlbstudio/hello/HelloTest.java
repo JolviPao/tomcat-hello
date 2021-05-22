@@ -5,5 +5,6 @@ public class HelloTest {
         System.out.println("hello test!");
         System.out.println("tomcat-hello");
         System.out.println("tomcat-hello test!");
+        System.out.println("hello-tomcat test!");
     }
 }
